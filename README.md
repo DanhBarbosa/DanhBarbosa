@@ -2,15 +2,23 @@
 
 💻 Analista Dev TI Jr | Full Stack Developer
 
-Atualmente atuo na Franco Contabilidade, onde participo do desenvolvimento e manutenção de sistemas corporativos voltados para processos internos da organização.
+Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corporativos utilizados em processos internos da organização.
 
-## Sobre mim
+---
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🏫 Centro Universitário Senac São Paulo
-- 📅 Conclusão: Junho de 2025
-- 🏢 Franco Contabilidade
-- 🚀 4 anos de experiência em desenvolvimento de sistemas
+## Sobre Mim
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+🏫 Centro Universitário Senac São Paulo
+
+📅 Conclusão: Junho de 2025
+
+💼 4 anos de experiência em desenvolvimento de sistemas corporativos
+
+📍 São Paulo - SP
+
+---
 
 ## Tecnologias
 
@@ -24,25 +32,32 @@ Atualmente atuo na Franco Contabilidade, onde participo do desenvolvimento e man
 
 ### Front-End
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Metro UI
 - Materialize CSS
 
+---
+
 ## Principais Projetos
 
 ### Sistema de Vendas e Estoque
-Sistema desenvolvido em Java com foco em gerenciamento de vendas e controle de estoque.
+Aplicação Java para gerenciamento de vendas, produtos e controle de estoque.
 
 ### Gerenciador de Tarefas
-Aplicação web para gerenciamento de tarefas utilizando HTML, JavaScript e Materialize CSS.
+Aplicação web com dashboard estatístico para gerenciamento de atividades.
 
 ### Filmes NextJS
-Aplicação web desenvolvida em Next.js para consulta e gerenciamento de filmes.
+Aplicação web desenvolvida com Next.js para consulta e gerenciamento de filmes.
 
 ### Pizzaria Materialize
-Projeto web para gerenciamento e apresentação de uma pizzaria.
+Projeto de interface web para apresentação e gerenciamento de uma pizzaria.
+
+### Portfolio Web Responsivo
+Projeto acadêmico demonstrando conceitos de HTML, CSS, JavaScript e responsividade.
+
+---
 
 ## Atualmente Estudando
 
@@ -50,6 +65,8 @@ Projeto web para gerenciamento e apresentação de uma pizzaria.
 - Arquitetura de Sistemas
 - Desenvolvimento Full Stack
 
-## Contato
+---
 
-📍 São Paulo - SP
+## Objetivo
+
+Continuar evoluindo como desenvolvedor Full Stack, ampliando conhecimentos em desenvolvimento web, arquitetura de sistemas e inteligência artificial.
