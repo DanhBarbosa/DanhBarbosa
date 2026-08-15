@@ -42,11 +42,11 @@ Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corpo
 
 ## Certificações e Formação Complementar
 
-### Concluídos
+### Concluídas
 
 - AWS Academy Cloud Foundations (2024)
 - Oracle Database Foundations and Database Design (2023)
-- Computação Intermediário (Sistemas Operacionais, Hardware e Pacote Office)
+- Computação Intermediária (Sistemas Operacionais, Hardware e Pacote Office)
 
 ### Em andamento
 
@@ -60,18 +60,23 @@ Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corpo
 ## Principais Projetos
 
 ### Sistema de Vendas e Estoque
+
 Aplicação Java para gerenciamento de vendas, produtos e controle de estoque.
 
 ### Gerenciador de Tarefas
+
 Aplicação web com dashboard estatístico para gerenciamento de atividades.
 
-### Filmes NextJS
+### Filmes Next.js
+
 Aplicação web desenvolvida com Next.js para consulta e gerenciamento de filmes.
 
 ### Pizzaria Materialize
+
 Projeto de interface web para apresentação e gerenciamento de uma pizzaria.
 
-### Portfolio Web Responsivo
+### Portfólio Web Responsivo
+
 Projeto acadêmico demonstrando conceitos de HTML, CSS, JavaScript e responsividade.
 
 ---
@@ -86,4 +91,4 @@ Projeto acadêmico demonstrando conceitos de HTML, CSS, JavaScript e responsivid
 
 ## Objetivo
 
-Continuar evoluindo como desenvolvedor Full Stack, ampliando conhecimentos em desenvolvimento web, arquitetura de sistemas e inteligência artificial.
+Continuar evoluindo como desenvolvedor Full Stack, ampliando conhecimentos em desenvolvimento web, arquitetura de sistemas, computação em nuvem e inteligência artificial.
