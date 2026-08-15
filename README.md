@@ -40,6 +40,23 @@ Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corpo
 
 ---
 
+## Certificações e Formação Complementar
+
+### Concluídos
+
+- AWS Academy Cloud Foundations (2024)
+- Oracle Database Foundations and Database Design (2023)
+- Computação Intermediário (Sistemas Operacionais, Hardware e Pacote Office)
+
+### Em andamento
+
+- Projeto Brasil Bilíngue - SEDA College
+- Curso de Inteligência Artificial
+- Desenvolvimento Java com IA
+- Fundamentos do ChatGPT - Santander Open Academy
+
+---
+
 ## Principais Projetos
 
 ### Sistema de Vendas e Estoque
