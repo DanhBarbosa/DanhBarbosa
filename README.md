@@ -1,8 +1,8 @@
 # Olá, eu sou Danilo Barbosa 👋
 
-💻 Analista Dev TI Jr | Full Stack Developer
+💻 Analista de Desenvolvimento TI Jr | Full Stack Developer
 
-Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corporativos utilizados em processos internos da organização.
+Atualmente atuo na Franco Contabilidade, desenvolvendo, mantendo e evoluindo sistemas corporativos utilizados em processos internos da organização.
 
 ---
 
@@ -27,16 +27,29 @@ Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corpo
 - ASP Classic
 - PHP
 - Java
+- Spring Boot
 - SQL Server
 - MySQL
+- H2 Database
+- JWT
 
 ### Front-End
 
 - HTML5
 - CSS3
 - JavaScript
+- React
+- Next.js
 - Metro UI
 - Materialize CSS
+
+### Ferramentas
+
+- Git
+- GitHub
+- Maven
+- Docker
+- VS Code
 
 ---
 
@@ -50,34 +63,34 @@ Atualmente atuo na Franco Contabilidade, desenvolvendo e mantendo sistemas corpo
 
 ### Em andamento
 
-- Projeto Brasil Bilíngue - SEDA College
+- Projeto Brasil Bilíngue – SEDA College
 - Curso de Inteligência Artificial
 - Desenvolvimento Java com IA
-- Fundamentos do ChatGPT - Santander Open Academy
+- Fundamentos do ChatGPT – Santander Open Academy
 
 ---
 
-## Principais Projetos
+## Projetos em Destaque
 
-### Sistema de Vendas e Estoque
+### 🛒 Sistema de Vendas e Estoque
 
-Aplicação Java para gerenciamento de vendas, produtos e controle de estoque.
+Sistema desenvolvido com Spring Boot, Spring Security, JWT, JPA/Hibernate e banco de dados H2 para gerenciamento de produtos, vendas e controle de estoque.
 
-### Gerenciador de Tarefas
+### 🏦 Sistema Bancário
 
-Aplicação web com dashboard estatístico para gerenciamento de atividades.
+Aplicação Java orientada a objetos utilizando herança, polimorfismo, abstração e regras de negócio para operações financeiras.
 
-### Filmes Next.js
+### 🏧 Caixa Eletrônico
 
-Aplicação web desenvolvida com Next.js para consulta e gerenciamento de filmes.
+Simulação de caixa eletrônico desenvolvida em Java com gerenciamento de contas, depósitos, saques e emissão de extratos.
 
-### Pizzaria Materialize
+### ✅ Gerenciador de Tarefas
 
-Projeto de interface web para apresentação e gerenciamento de uma pizzaria.
+Sistema para gerenciamento de atividades utilizando arquitetura em camadas, controle de tarefas e regras de negócio.
 
-### Portfólio Web Responsivo
+### 🎬 Filmes Next.js
 
-Projeto acadêmico demonstrando conceitos de HTML, CSS, JavaScript e responsividade.
+Aplicação desenvolvida com Next.js e React para consulta de filmes, detalhes, avaliações e favoritos através de API externa.
 
 ---
 
@@ -86,9 +99,25 @@ Projeto acadêmico demonstrando conceitos de HTML, CSS, JavaScript e responsivid
 - Inteligência Artificial
 - Arquitetura de Sistemas
 - Desenvolvimento Full Stack
+- Boas práticas em Java
+- Spring Boot
 
 ---
 
 ## Objetivo
 
-Continuar evoluindo como desenvolvedor Full Stack, ampliando conhecimentos em desenvolvimento web, arquitetura de sistemas, computação em nuvem e inteligência artificial.
+Continuar evoluindo como Desenvolvedor Full Stack, aprofundando conhecimentos em arquitetura de sistemas, computação em nuvem, desenvolvimento web moderno e inteligência artificial.
+
+---
+
+## GitHub
+
+📌 Repositórios em destaque:
+
+- sistema-vendas-estoque
+- sistema-bancario-java
+- caixa-eletronico-java
+- gerenciador-tarefas-java
+- filmes-nextjs
+- conversor-unidades-java
+`
